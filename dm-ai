@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "first"
+git remote add origin https://github.com/tomapigennsinn0105-eng/dm-ai.git
+git branch -M main
+git push -u origin main
